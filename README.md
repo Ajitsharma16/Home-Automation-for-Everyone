@@ -1,0 +1,2 @@
+# Home-Automation-for-Everyone
+It is designed over the concept of the Internet of Things. This setup can control (toggle OFF/ON) and monitor the home appliances and gadgets wirelessly over the cloud. I have used NodeMCU wifi hardware and created an android application for this. Due to this it will help to save electricity and also keeps the appliances safe. This model was created with very little money, that everyone can afford.
